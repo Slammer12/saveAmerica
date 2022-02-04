@@ -1,0 +1,25 @@
+* {
+background-color: #F5F5F5;
+}
+
+h1 {
+font-size: 2.5rem;
+color: #526166;
+font-weight: 600;
+}
+
+h2 {
+font-size: 2rem;
+color: #526166;
+}
+
+h3 {
+font-size: 1.5rem;
+color: #526166;
+}
+
+a {
+background-color: #F5F5F5;
+color: #520100;
+text-decoration: none;
+}
